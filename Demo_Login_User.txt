@@ -1,0 +1,10 @@
+Admin login:
+admin2@gmail.com
+222222
+
+User login:
+petter@gmail.com
+peter123
+
+mary@gmail.com
+mary123
