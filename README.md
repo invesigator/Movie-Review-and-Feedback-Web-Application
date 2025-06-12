@@ -138,7 +138,7 @@ The application follows a 3-tier architecture:
 3. **Clone/Download the Project**
    ```bash
    # If using Git
-   git clone https://github.com/yourusername/movie-review-paradise.git
+   git clone https://github.com/invesigator/Movie-Review-and-Feedback-Web-Application.git
    
    # Or download and extract the ZIP file
    ```
