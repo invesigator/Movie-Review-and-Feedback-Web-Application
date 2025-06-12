@@ -1,0 +1,71 @@
+/* Container for the movie details */
+.movie-details-container {
+    max-width: 900px;
+    margin: 20px auto;
+    background: #fff;
+    padding: 20px;
+    border-radius: 10px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+}
+
+/* Movie Info Section */
+.movie-info {
+    display: flex;
+    align-items: flex-start;
+    gap: 30px;
+}
+
+.movie-poster img {
+    width: 100%;
+    max-width: 300px;
+    border-radius: 10px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+    object-fit: cover;
+}
+
+.movie-details {
+    flex-grow: 1;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    padding-left: 20px;
+}
+
+.movie-details h1 {
+    font-size: 28px;
+    margin-bottom: 15px;
+    color: #343a40;
+}
+
+.movie-details p {
+    font-size: 18px;
+    margin: 5px 0;
+    line-height: 1.5;
+    color: #555;
+}
+
+
+.review-container {
+    max-width: 900px;
+    margin: 20px auto;
+}
+
+/* Adjust the profile picture */
+#review_content .rounded-circle {
+    width: 40px;
+    height: 40px;
+    margin: auto;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+
+/* Ensure the review card width is consistent */
+#review_content .card {
+    max-width: 900px; /* Ensure it uses the full width of the container */
+    margin: 20px auto; /* Center the review card */
+    border-radius: 10px;
+    border: 1px solid #ddd;
+}
+
