@@ -178,6 +178,39 @@ The application follows a 3-tier architecture:
 - Access admin dashboard
 - Upload movie posters
 
+## Demo with Screenshot
+### Landing Page
+<img width="1919" height="853" alt="image" src="https://github.com/user-attachments/assets/54721114-9bcc-4fa6-ad61-02130e0782ff" />
+
+<img width="1919" height="860" alt="image" src="https://github.com/user-attachments/assets/69a6ac83-e87b-4833-a736-bdf588b58054" />
+
+<img width="1919" height="867" alt="image" src="https://github.com/user-attachments/assets/6f897e8e-0ad2-46c0-afce-2a6133870b03" />
+
+### Login Page
+<img width="1919" height="858" alt="image" src="https://github.com/user-attachments/assets/02cbc1a1-5779-4246-99b4-5bf40fd34655" />
+
+### Main Page
+<img width="1919" height="863" alt="image" src="https://github.com/user-attachments/assets/057fd551-2176-45f8-9d00-2ac6e377eb61" />
+
+<img width="1919" height="864" alt="image" src="https://github.com/user-attachments/assets/397f3025-03cc-43ec-89dc-ab3fbd12c202" />
+
+### Movie Detail Page
+<img width="1919" height="867" alt="image" src="https://github.com/user-attachments/assets/eac23ce7-6801-4cf0-996e-0322422c5bf3" />
+
+<img width="1919" height="858" alt="image" src="https://github.com/user-attachments/assets/2d54f010-b2b9-47f3-b9e5-0dc74dc44e35" />
+
+### My Profile Page
+<img width="1919" height="864" alt="image" src="https://github.com/user-attachments/assets/decb409d-09de-4488-a075-c684c1036a0d" />
+
+<img width="1919" height="862" alt="image" src="https://github.com/user-attachments/assets/2910e137-644f-4dff-8d2e-b5319050fc29" />
+
+### Admin Panel
+<img width="1919" height="861" alt="image" src="https://github.com/user-attachments/assets/83e6f7ef-33f0-48b1-ac18-4392dafc17c7" />
+
+### Movie List
+<img width="1047" height="867" alt="image" src="https://github.com/user-attachments/assets/e38bda03-520a-4a45-887f-84906acba0c6" />
+
+
 ## 👨‍💻 Development Team
 
 This project was developed as part of UCCD3243 Server-Side Web Applications Development course at Universiti Tunku Abdul Rahman (UTAR).
